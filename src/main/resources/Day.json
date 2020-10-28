@@ -1,0 +1,44 @@
+{
+  "Зеленый_салат_с_курицей_и_сыром": {
+    "calories": "95.6",
+    "proteins": "10.4",
+    "fat": "3.9",
+    "carbohydrates": "4.1"
+  },
+  "Крабовый_салат_с_огурцом": {
+    "calories": "130.7",
+    "proteins": "4.9",
+    "fat": "8.7",
+    "carbohydrates": "7.4"
+  },
+  "Борщ_с_говядиной": {
+    "calories": "28.87",
+    "proteins": "2.6",
+    "fat": "1.5",
+    "carbohydrates": "1.4"
+  },
+  "Куриный_суп_с_овощами" : {
+    "calories": "44",
+    "proteins": "3.4",
+    "fat": "2.3",
+    "carbohydrates": "2.9"
+  },
+  "Суп_с_шампиньонами": {
+    "calories": "61.7",
+    "proteins": "1.3",
+    "fat": "4",
+    "carbohydrates": "5.6"
+  },
+  "Курица_по-индийски_с_рисом": {
+    "calories": "162.1",
+    "proteins": "9.5",
+    "fat": "6.8",
+    "carbohydrates": "15.6"
+  },
+  "Паста_Болоньезе": {
+    "calories": "148.1",
+    "proteins": "6.8",
+    "fat": "6.5",
+    "carbohydrates": "12.9"
+  }
+}

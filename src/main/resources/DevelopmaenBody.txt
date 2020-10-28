@@ -1,0 +1,42 @@
+"Подтягивания":
+    "approaches": "3",
+    "repetitions": "7"
+"Отжимания":
+    "approaches": "5",
+    "repetitions": "10"
+
+"Использование_гантелей":
+    "approaches": "7",
+    "repetitions": "7"
+
+"Основная_планка" :
+    "approaches": "3",
+    "repetitions": "30"
+
+"Боковая_планка":
+    "approaches": "3",
+    "repetitions": "30"
+
+"Качание_пресса":
+    "approaches": "3",
+    "repetitions": "35"
+
+"Растягивание_мышц_пресса":
+    "approaches": "2",
+    "repetitions": "25"
+
+"Приседания":
+    "approaches": "3",
+    "repetitions": "35"
+
+"Выпады_ногами":
+    "approaches": "2",
+    "repetitions": "15"
+
+"Зашагивания":
+    "approaches": "2",
+    "repetitions": "15"
+
+"Тяга_на_одной_ноге":
+    "approaches": "2",
+    "repetitions": "25"
