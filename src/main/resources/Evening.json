@@ -1,0 +1,20 @@
+{
+  "Запеченая_форель": {
+    "calories": "86.4",
+    "proteins": "15.9",
+    "fat": "1.7",
+    "carbohydrates": "1"
+  },
+  "Гречневый_салат_с_овощами" : {
+    "calories": "100",
+    "proteins": "4.9",
+    "fat": "4.0",
+    "carbohydrates": "10.2"
+  },
+  "Котлеты_из_свинины": {
+    "calories": "297",
+    "proteins": "10.4",
+    "fat": "23.6",
+    "carbohydrates": "10.4"
+  }
+}
